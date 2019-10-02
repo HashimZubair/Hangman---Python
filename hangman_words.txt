@@ -1,0 +1,13 @@
+giraffe
+lion
+monkey
+elephant
+mouse
+zebra
+crocodile
+cheetah
+tiger
+gorilla
+rhino
+jaguar
+leopard
